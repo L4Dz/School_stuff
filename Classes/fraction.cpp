@@ -13,7 +13,7 @@ public:
     Fraction sub(const Fraction& right);
     Fraction mul(const Fraction& right);
     Fraction div(const Fraction& right);
-
+//
     void write() const;
 
 private:
