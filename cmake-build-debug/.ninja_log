@@ -1,0 +1,19 @@
+# ninja log v6
+9	745	7709453719426433	CMakeFiles/untitled7.dir/median.cpp.obj	b24e8ae3c89fa232
+33	724	7714703064007688	CMakeFiles/untitled7.dir/main.cpp.obj	96b51268333ecb9
+38	273	7710337926275740	CMakeFiles/untitled7.dir/longest.cpp.obj	22017e18657cfbb1
+42	289	7714703064102738	CMakeFiles/untitled7.dir/Test_Stuff/duplicate.cpp.obj	b8ee99bfda868b1a
+581	847	7710337931695785	untitled7.exe	9c6206af77b01d9d
+12	139	7709500119177109	CMakeFiles/untitled7.dir/duplicate.cpp.obj	c8c297792231b32d
+8	57	7709502100488033	CMakeFiles/untitled7.dir/append.cpp.obj	c5321efa60e81148
+11	1046	7714027607418242	CMakeFiles/untitled7.dir/pangram.cpp.obj	fc696deb00a49487
+48	290	7714703064164900	CMakeFiles/untitled7.dir/Test_Stuff/longest.cpp.obj	52dc7474fcdaa3a1
+57	1073	7714027607885353	CMakeFiles/untitled7.dir/longest-common-prefix.cpp.obj	d500ba591767d3ae
+71	1154	7714027608031282	CMakeFiles/untitled7.dir/wc.cpp.obj	b623804ae8949a59
+63	1423	7714027607941274	CMakeFiles/untitled7.dir/count-words.cpp.obj	e7863ffad95f152a
+37	1956	7714027607682152	CMakeFiles/untitled7.dir/print_grades.cpp.obj	2eff13cc70e3e2de
+15	383	7715359536430486	build.ninja	1dfe2a6650d7ee08
+63	1139	7714703064301528	CMakeFiles/untitled7.dir/Test_Stuff/print_grades.cpp.obj	742a2076881dfded
+45	290	7714703064130392	CMakeFiles/untitled7.dir/Test_Stuff/append.cpp.obj	aabbc6096149f776
+53	671	7714703064209513	CMakeFiles/untitled7.dir/Test_Stuff/pangram.cpp.obj	237996e6e8e8d9c4
+37	854	7714703064048484	CMakeFiles/untitled7.dir/Test_Stuff/median.cpp.obj	441e419df3537a50
