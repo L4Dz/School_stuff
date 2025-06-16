@@ -157,29 +157,53 @@ build CMakeFiles/untitled7.dir/Classes/point2d.cpp.obj: CXX_COMPILER__untitled7_
   OBJECT_DIR = CMakeFiles\untitled7.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Classes
 
-build CMakeFiles/untitled7.dir/Classes/date1.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Classes/date1.cpp || cmake_object_order_depends_target_untitled7
-  DEP_FILE = CMakeFiles\untitled7.dir\Classes\date1.cpp.obj.d
+build CMakeFiles/untitled7.dir/Classes/dates/date1.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Classes/dates/date1.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = CMakeFiles\untitled7.dir\Classes\dates\date1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled7.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Classes
+  OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Classes\dates
 
-build CMakeFiles/untitled7.dir/Classes/date2.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Classes/date2.cpp || cmake_object_order_depends_target_untitled7
-  DEP_FILE = CMakeFiles\untitled7.dir\Classes\date2.cpp.obj.d
+build CMakeFiles/untitled7.dir/Classes/dates/date2.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Classes/dates/date2.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = CMakeFiles\untitled7.dir\Classes\dates\date2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled7.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Classes
+  OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Classes\dates
 
-build CMakeFiles/untitled7.dir/Classes/date3.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Classes/date3.cpp || cmake_object_order_depends_target_untitled7
-  DEP_FILE = CMakeFiles\untitled7.dir\Classes\date3.cpp.obj.d
+build CMakeFiles/untitled7.dir/Classes/dates/date3.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Classes/dates/date3.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = CMakeFiles\untitled7.dir\Classes\dates\date3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled7.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Classes
+  OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Classes\dates
 
 build CMakeFiles/untitled7.dir/Classes/fraction.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Classes/fraction.cpp || cmake_object_order_depends_target_untitled7
   DEP_FILE = CMakeFiles\untitled7.dir\Classes\fraction.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled7.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Classes
+
+build CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Color.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Classes/Separate$ compilation$ &$ class$ templates/Color.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = "CMakeFiles\untitled7.dir\Classes\Separate_compilation_&_class_templates\Color.cpp.obj.d"
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = "CMakeFiles\untitled7.dir\Classes\Separate_compilation_&_class_templates"
+
+build CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/p2_main.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Classes/Separate$ compilation$ &$ class$ templates/p2_main.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = "CMakeFiles\untitled7.dir\Classes\Separate_compilation_&_class_templates\p2_main.cpp.obj.d"
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = "CMakeFiles\untitled7.dir\Classes\Separate_compilation_&_class_templates"
+
+build CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Date.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Classes/Separate$ compilation$ &$ class$ templates/Date.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = "CMakeFiles\untitled7.dir\Classes\Separate_compilation_&_class_templates\Date.cpp.obj.d"
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = "CMakeFiles\untitled7.dir\Classes\Separate_compilation_&_class_templates"
+
+build CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Person.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Classes/Separate$ compilation$ &$ class$ templates/Person.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = "CMakeFiles\untitled7.dir\Classes\Separate_compilation_&_class_templates\Person.cpp.obj.d"
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = "CMakeFiles\untitled7.dir\Classes\Separate_compilation_&_class_templates"
 
 
 # =============================================================================
@@ -189,7 +213,7 @@ build CMakeFiles/untitled7.dir/Classes/fraction.cpp.obj: CXX_COMPILER__untitled7
 #############################################
 # Link the executable untitled7.exe
 
-build untitled7.exe: CXX_EXECUTABLE_LINKER__untitled7_Debug CMakeFiles/untitled7.dir/main.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/median.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/duplicate.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/append.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/longest.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/pangram.cpp.obj CMakeFiles/untitled7.dir/Streams/word_count.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/Airport.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/print_grades.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/string-split.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/normalise-vector.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/longest-common-prefix.cpp.obj CMakeFiles/untitled7.dir/Streams/count-words.cpp.obj CMakeFiles/untitled7.dir/Streams/wc.cpp.obj CMakeFiles/untitled7.dir/Streams/normalise.cpp.obj CMakeFiles/untitled7.dir/Streams/maximum.cpp.obj CMakeFiles/untitled7.dir/Streams/median-values.cpp.obj CMakeFiles/untitled7.dir/Classes/point2d.cpp.obj CMakeFiles/untitled7.dir/Classes/date1.cpp.obj CMakeFiles/untitled7.dir/Classes/date2.cpp.obj CMakeFiles/untitled7.dir/Classes/date3.cpp.obj CMakeFiles/untitled7.dir/Classes/fraction.cpp.obj
+build untitled7.exe: CXX_EXECUTABLE_LINKER__untitled7_Debug CMakeFiles/untitled7.dir/main.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/median.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/duplicate.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/append.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/longest.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/pangram.cpp.obj CMakeFiles/untitled7.dir/Streams/word_count.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/Airport.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/print_grades.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/string-split.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/normalise-vector.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/longest-common-prefix.cpp.obj CMakeFiles/untitled7.dir/Streams/count-words.cpp.obj CMakeFiles/untitled7.dir/Streams/wc.cpp.obj CMakeFiles/untitled7.dir/Streams/normalise.cpp.obj CMakeFiles/untitled7.dir/Streams/maximum.cpp.obj CMakeFiles/untitled7.dir/Streams/median-values.cpp.obj CMakeFiles/untitled7.dir/Classes/point2d.cpp.obj CMakeFiles/untitled7.dir/Classes/dates/date1.cpp.obj CMakeFiles/untitled7.dir/Classes/dates/date2.cpp.obj CMakeFiles/untitled7.dir/Classes/dates/date3.cpp.obj CMakeFiles/untitled7.dir/Classes/fraction.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Color.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/p2_main.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Date.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Person.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled7.dir

@@ -28,10 +28,17 @@ add_executable(untitled7 main.cpp
         Streams/median-values.cpp
         Classes/Point2d.h
         Classes/point2d.cpp
-        Classes/date1.h
-        Classes/date1.cpp
-        Classes/Date2.h
-        Classes/date2.cpp
-        Classes/Date3.h
-        Classes/date3.cpp
-        Classes/fraction.cpp)
+        Classes/dates/Date1.h
+        Classes/dates/date1.cpp
+        Classes/dates/Date2.h
+        Classes/dates/date2.cpp
+        Classes/dates/Date3.h
+        Classes/dates/date3.cpp
+        Classes/fraction.cpp
+        "Classes/Separate compilation & class templates/Color.h"
+        "Classes/Separate compilation & class templates/Color.cpp"
+        "Classes/Separate compilation & class templates/Date.h"
+        "Classes/Separate compilation & class templates/Person.h"
+        "Classes/Separate compilation & class templates/p2_main.cpp"
+        "Classes/Separate compilation & class templates/Date.cpp"
+        "Classes/Separate compilation & class templates/Person.cpp")
