@@ -41,4 +41,15 @@ add_executable(untitled7 main.cpp
         "Classes/Separate compilation & class templates/Person.h"
         "Classes/Separate compilation & class templates/p2_main.cpp"
         "Classes/Separate compilation & class templates/Date.cpp"
-        "Classes/Separate compilation & class templates/Person.cpp")
+        "Classes/Separate compilation & class templates/Person.cpp"
+        "Classes/Separate compilation & class templates/Point.h"
+        "Classes/Separate compilation & class templates/Point.cpp"
+        "Classes/Separate compilation & class templates/Polygon.h"
+        "Classes/Separate compilation & class templates/Polygon.cpp"
+        "Classes/Separate compilation & class templates/Pair.cpp"
+        "Classes/Separate compilation & class templates/stack.cpp"
+        "Classes/Class inheritance/ResaleProduct.h"
+        "Classes/Class inheritance/Product.h"
+        "Classes/Class inheritance/Product.cpp"
+        "Classes/Class inheritance/ResaleProduct.cpp"
+        "Classes/Class inheritance/Person.h")
