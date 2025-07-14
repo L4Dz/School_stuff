@@ -307,6 +307,66 @@ build CMakeFiles/untitled7.dir/Classes/Class_inheritance/Rectangle.cpp.obj: CXX_
   OBJECT_DIR = CMakeFiles\untitled7.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Classes\Class_inheritance
 
+build CMakeFiles/untitled7.dir/STL_&_Operator_overloading/map-romans.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/STL$ &$ Operator$ overloading/map-romans.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = "CMakeFiles\untitled7.dir\STL_&_Operator_overloading\map-romans.cpp.obj.d"
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = "CMakeFiles\untitled7.dir\STL_&_Operator_overloading"
+
+build CMakeFiles/untitled7.dir/STL_&_Operator_overloading/count-words.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/STL$ &$ Operator$ overloading/count-words.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = "CMakeFiles\untitled7.dir\STL_&_Operator_overloading\count-words.cpp.obj.d"
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = "CMakeFiles\untitled7.dir\STL_&_Operator_overloading"
+
+build CMakeFiles/untitled7.dir/STL_&_Operator_overloading/Point.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/STL$ &$ Operator$ overloading/Point.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = "CMakeFiles\untitled7.dir\STL_&_Operator_overloading\Point.cpp.obj.d"
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = "CMakeFiles\untitled7.dir\STL_&_Operator_overloading"
+
+build CMakeFiles/untitled7.dir/STL_&_Operator_overloading/MovingAverage.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/STL$ &$ Operator$ overloading/MovingAverage.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = "CMakeFiles\untitled7.dir\STL_&_Operator_overloading\MovingAverage.cpp.obj.d"
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = "CMakeFiles\untitled7.dir\STL_&_Operator_overloading"
+
+build CMakeFiles/untitled7.dir/STL_&_Operator_overloading/iterators.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/STL$ &$ Operator$ overloading/iterators.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = "CMakeFiles\untitled7.dir\STL_&_Operator_overloading\iterators.cpp.obj.d"
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = "CMakeFiles\untitled7.dir\STL_&_Operator_overloading"
+
+build CMakeFiles/untitled7.dir/Using_STL/replace.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Using$ STL/replace.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = CMakeFiles\untitled7.dir\Using_STL\replace.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Using_STL
+
+build CMakeFiles/untitled7.dir/Using_STL/count-words.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Using$ STL/count-words.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = CMakeFiles\untitled7.dir\Using_STL\count-words.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Using_STL
+
+build CMakeFiles/untitled7.dir/Using_STL/dates.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Using$ STL/dates.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = CMakeFiles\untitled7.dir\Using_STL\dates.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Using_STL
+
+build CMakeFiles/untitled7.dir/Using_STL/highest.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Using$ STL/highest.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = CMakeFiles\untitled7.dir\Using_STL\highest.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Using_STL
+
+build CMakeFiles/untitled7.dir/Using_STL/books.cpp.obj: CXX_COMPILER__untitled7_unscanned_Debug C$:/Users/ladie/CLionProjects/untitled7/Using$ STL/books.cpp || cmake_object_order_depends_target_untitled7
+  DEP_FILE = CMakeFiles\untitled7.dir\Using_STL\books.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled7.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled7.dir\Using_STL
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target untitled7
@@ -315,7 +375,7 @@ build CMakeFiles/untitled7.dir/Classes/Class_inheritance/Rectangle.cpp.obj: CXX_
 #############################################
 # Link the executable untitled7.exe
 
-build untitled7.exe: CXX_EXECUTABLE_LINKER__untitled7_Debug CMakeFiles/untitled7.dir/main.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/median.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/duplicate.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/append.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/longest.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/pangram.cpp.obj CMakeFiles/untitled7.dir/Streams/word_count.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/Airport.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/print_grades.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/string-split.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/normalise-vector.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/longest-common-prefix.cpp.obj CMakeFiles/untitled7.dir/Streams/count-words.cpp.obj CMakeFiles/untitled7.dir/Streams/wc.cpp.obj CMakeFiles/untitled7.dir/Streams/normalise.cpp.obj CMakeFiles/untitled7.dir/Streams/maximum.cpp.obj CMakeFiles/untitled7.dir/Streams/median-values.cpp.obj CMakeFiles/untitled7.dir/Classes/point2d.cpp.obj CMakeFiles/untitled7.dir/Classes/dates/date1.cpp.obj CMakeFiles/untitled7.dir/Classes/dates/date2.cpp.obj CMakeFiles/untitled7.dir/Classes/dates/date3.cpp.obj CMakeFiles/untitled7.dir/Classes/fraction.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Color.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/p2_main.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Date.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Person.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Point.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Polygon.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/pair.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/stack.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Product.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/ResaleProduct.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Person.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Student.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/ErasmusStudent.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Solid.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Cylinder.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Operation.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Sum.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Power.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Shape.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Circle.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Rectangle.cpp.obj
+build untitled7.exe: CXX_EXECUTABLE_LINKER__untitled7_Debug CMakeFiles/untitled7.dir/main.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/median.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/duplicate.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/append.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/longest.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/pangram.cpp.obj CMakeFiles/untitled7.dir/Streams/word_count.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/Airport.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/print_grades.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/string-split.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/normalise-vector.cpp.obj CMakeFiles/untitled7.dir/Test_Stuff/longest-common-prefix.cpp.obj CMakeFiles/untitled7.dir/Streams/count-words.cpp.obj CMakeFiles/untitled7.dir/Streams/wc.cpp.obj CMakeFiles/untitled7.dir/Streams/normalise.cpp.obj CMakeFiles/untitled7.dir/Streams/maximum.cpp.obj CMakeFiles/untitled7.dir/Streams/median-values.cpp.obj CMakeFiles/untitled7.dir/Classes/point2d.cpp.obj CMakeFiles/untitled7.dir/Classes/dates/date1.cpp.obj CMakeFiles/untitled7.dir/Classes/dates/date2.cpp.obj CMakeFiles/untitled7.dir/Classes/dates/date3.cpp.obj CMakeFiles/untitled7.dir/Classes/fraction.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Color.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/p2_main.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Date.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Person.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Point.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/Polygon.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/pair.cpp.obj CMakeFiles/untitled7.dir/Classes/Separate_compilation_&_class_templates/stack.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Product.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/ResaleProduct.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Person.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Student.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/ErasmusStudent.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Solid.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Cylinder.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Operation.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Sum.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Power.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Shape.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Circle.cpp.obj CMakeFiles/untitled7.dir/Classes/Class_inheritance/Rectangle.cpp.obj CMakeFiles/untitled7.dir/STL_&_Operator_overloading/map-romans.cpp.obj CMakeFiles/untitled7.dir/STL_&_Operator_overloading/count-words.cpp.obj CMakeFiles/untitled7.dir/STL_&_Operator_overloading/Point.cpp.obj CMakeFiles/untitled7.dir/STL_&_Operator_overloading/MovingAverage.cpp.obj CMakeFiles/untitled7.dir/STL_&_Operator_overloading/iterators.cpp.obj CMakeFiles/untitled7.dir/Using_STL/replace.cpp.obj CMakeFiles/untitled7.dir/Using_STL/count-words.cpp.obj CMakeFiles/untitled7.dir/Using_STL/dates.cpp.obj CMakeFiles/untitled7.dir/Using_STL/highest.cpp.obj CMakeFiles/untitled7.dir/Using_STL/books.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled7.dir

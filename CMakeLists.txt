@@ -73,4 +73,17 @@ add_executable(untitled7 main.cpp
         "Classes/Class inheritance/Circle.h"
         "Classes/Class inheritance/Circle.cpp"
         "Classes/Class inheritance/Rectangle.h"
-        "Classes/Class inheritance/Rectangle.cpp")
+        "Classes/Class inheritance/Rectangle.cpp"
+        "STL & Operator overloading/map-romans.cpp"
+        "STL & Operator overloading/count-words.cpp"
+        "STL & Operator overloading/Point.cpp"
+        "STL & Operator overloading/Point.h"
+        "STL & Operator overloading/MovingAverage.h"
+        "STL & Operator overloading/MovingAverage.cpp"
+        "STL & Operator overloading/Iterators.cpp"
+        "Using STL/replace.cpp"
+        "Using STL/count-words.cpp"
+        "Using STL/Date.h"
+        "Using STL/dates.cpp"
+        "Using STL/highest.cpp"
+        "Using STL/books.cpp")
